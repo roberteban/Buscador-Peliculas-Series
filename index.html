@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Películas y Series</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Buscador de Películas y Series</h1>
+
+    <!-- Selector para elegir entre películas o series -->
+    <label for="tipo">Buscar por:</label>
+    <select id="tipo">
+        <option value="peliculas">Películas</option>
+        <option value="series">Series</option>
+    </select>
+
+    <!-- Input para que el usuario ingrese el título a buscar -->
+    <input type="text" id="busqueda" placeholder="Escribe el título...">
+
+    <!-- Botón de búsqueda -->
+    <button id="buscarBtn">Buscar</button>
+
+    <!-- Lista donde se mostrarán los resultados -->
+    <ul id="resultados"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>

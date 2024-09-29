@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+input, select, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+/* Lista de resultados */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+/* Estilo de cada ítem de la lista */
+li {
+  background-color: #fff;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  display: inline-block;
+  width: 80%;
+  text-align: left;
+  position: relative;
+}
+
+/* Estilo de la sinopsis (oculta por defecto) */
+li p {
+  display: none;
+  font-size: 14px;
+  margin: 5px 0;
+  color: #666;
+}
+
+/* Efecto cuando el mouse está sobre un ítem de la lista */
+li:hover p {
+  display: block;
+}

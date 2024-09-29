@@ -1,0 +1,10 @@
+{
+    "data": 
+    [ 
+        { "nombre": "BACK TO THE FUTURE", "sinopsis": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido."},
+        { "nombre": "THE GODFATHER", "sinopsis": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Cuando Corleone se niega a participar en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas."},
+        { "nombre": "FORREST GUMP", "sinopsis": "Forrest Gump sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas."},
+        { "nombre": "THE USUAL SUSPECTS", "sinopsis": "Dave Kujan, un agente especial del servicio de aduanas de Estados Unidos, está investigando las causas del incendio de un barco, en el puerto de San Pedro de Los Ángeles, que provocó 27 víctimas mortales, aunque todas parecen haber sido asesinadas. Su única fuente de información es Roger Kint, un estafador lisiado que sobrevivió al incendio."},
+        { "nombre": "FARGO", "sinopsis": "Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunstancias, al secuestro se suman tres brutales asesinatos, lo que obliga a la policía a intervenir."}
+    ]
+}
