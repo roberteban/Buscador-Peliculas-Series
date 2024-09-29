@@ -1,4 +1,4 @@
-# Buscador-Películas-Series
+# Buscador de Películas y Series
 
 Buscador interactivo que permite al usuario seleccionar entre películas o series, buscar por el título y visualizar los resultados con su respectiva sinopsis. Implementado en HTML, CSS y JavaScript, el buscador utiliza archivos JSON para obtener la información de las películas y series.
 
