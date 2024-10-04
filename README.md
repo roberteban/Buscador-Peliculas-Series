@@ -15,7 +15,7 @@ Buscador interactivo que permite al usuario seleccionar entre películas o serie
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/roberteban/Buscador-Peliculas-Series.git
-2. Abre el archivo index.html en tu navegador.
+2. Abre el archivo `index.html` en tu navegador.
 
 ## Uso
 1. Selecciona entre Películas o Series utilizando el selector.
